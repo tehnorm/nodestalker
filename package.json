@@ -6,7 +6,7 @@
     , "author": "Pascal Opitz <contact@pascalopitz.com> (http://blog.pascalopitz.com)"
     , "repository": {
         "type": "git"
-        , "url": "git://github.com/pascalopitz/nodestalker.git"
+        , "url": "git@github.com:tehnorm/nodestalker.git"
     }
     , "main": "./lib/beanstalk_client"
     , "dependencies": {
